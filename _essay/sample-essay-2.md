@@ -1,7 +1,7 @@
 ---
 title: My First Essay
 order: 1
-part: Chapter 1
+part: W Chapter 1
 ---
 
 ## Introduction
