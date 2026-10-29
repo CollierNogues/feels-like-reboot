@@ -1,7 +1,7 @@
 ---
 title: Introduction 
 order: 20
-part: Documentation
+part: Introduction
 ---
 
 **From Cave Paintings to Head-Mounted Displays: A Short History of Immersive Art** 

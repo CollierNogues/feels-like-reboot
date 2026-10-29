@@ -1,8 +1,8 @@
 ---
 title: An invitation
-order: 2
+order: 1
 byline: Collier Nogues
-part: Introduction
+part: Welcome
 ---
 
 Feels Like Power argues that our practices of looking shape what it is possible for us to see. Particularly, the ways we look at artifacts of war shape what we take war to be, and how we understand our relationship to historical and ongoing wars. War leaves traces in public memorials, in museum exhibits, in domestic spaces, in altered and rebuilt landscapes. Some traces are easier for us to see than others. By “we,” I mean everyone from museum visitors to military historians to children playing on battleship-themed playgrounds{% include essay/feature/aside.html objectid="still_001" caption="Playgrounds like this one in Sembawang Park, Singapore, 2023." %}. I hope that you, reader, will accept my invitation to look in some unusual ways.
