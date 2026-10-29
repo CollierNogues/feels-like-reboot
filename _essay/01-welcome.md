@@ -1,6 +1,6 @@
 ---
 title: An invitation
-order: 1
+order: 2
 byline: Collier Nogues
 part: Introduction
 ---
