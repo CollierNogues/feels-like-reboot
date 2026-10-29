@@ -1,11 +1,12 @@
 ---
 title: My First Essay
 order: 1
+part: Chapter 1
 ---
 
 ## Introduction
 
-Trying again. This is my first essay using CB-Essay. I can write in **Markdown** with _formatting_.
+Can I just make a new section by inventing it within an md file? This is my first essay using CB-Essay. I can write in **Markdown** with _formatting_.
 
 Here's a paragraph with a [link](https://example.com).
 
