@@ -4,7 +4,6 @@ filename,object_location,image_small,image_thumb
 020_sembawang_playground.jpg,/objects/020_sembawang_playground.jpg,/objects/small/020_sembawang_playground_sm.jpg,/objects/thumbs/020_sembawang_playground_th.jpg
 210a.jpg,/objects/210a.jpg,/objects/small/210a_sm.jpg,/objects/thumbs/210a_th.jpg
 210b.jpg,/objects/210b.jpg,/objects/small/210b_sm.jpg,/objects/thumbs/210b_th.jpg
-The_Ground_cover.jpg,/objects/The_Ground_cover.jpg,/objects/small/the_ground_cover_sm.jpg,/objects/thumbs/the_ground_cover_th.jpg
 demo_001.jpg,/objects/demo_001.jpg,/objects/small/demo_001_sm.jpg,/objects/thumbs/demo_001_th.jpg
 demo_002.pdf,/objects/demo_002.pdf,/objects/small/demo_002_sm.jpg,/objects/thumbs/demo_002_th.jpg
 demo_003.mp3,/objects/demo_003.mp3,,
@@ -13,3 +12,5 @@ demo_005.txt,/objects/demo_005.txt,,
 demo_012.md,/objects/demo_012.md,,
 hells_half_theta.jpg,/objects/hells_half_theta.jpg,/objects/small/hells_half_theta_sm.jpg,/objects/thumbs/hells_half_theta_th.jpg
 hughes_article.png,/objects/hughes_article.png,/objects/small/hughes_article_sm.jpg,/objects/thumbs/hughes_article_th.jpg
+surrender_monument_pano.jpg,/objects/surrender_monument_pano.jpg,/objects/small/surrender_monument_pano_sm.jpg,/objects/thumbs/surrender_monument_pano_th.jpg
+the_ground_cover.jpg,/objects/the_ground_cover.jpg,/objects/small/the_ground_cover_sm.jpg,/objects/thumbs/the_ground_cover_th.jpg
